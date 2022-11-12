@@ -11,7 +11,7 @@ corepack enable
 yarn add solcjs
 ```
 
-Installed ganache to deploy and build environment
+Installed ganache suite to deploy and build environment
 https://trufflesuite.com/ganache/
 
 > RPC url stands for the connection node that somebody is calling
